@@ -14,6 +14,8 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **External activities** | 2016. 3 ~ 12 | student president | **Pyeongtaek University** |
 
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://kim-1994.github.io/)](https://https://kim-1994.github.io/)
+
 <!--
 **KIM-1994/KIM-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
