@@ -15,6 +15,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 
 ### :cyclone: Project
 | **Project Name** | **Period** | **Role** | **Explanation** |
+|:--------:|:--------:|:--------:|:--------:|
 | **novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
