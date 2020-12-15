@@ -13,6 +13,9 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| atmosphere, quality of water, noise&Vibration | **chungmyung environmental** |
 | **External activities** | 2016. 3 ~ 12 | student president | **Pyeongtaek University** |
 
+### :cyclone: Project
+| **Project Name** | **Period** | **Role** | **Explanation** |
+| **novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
 
