@@ -19,6 +19,12 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
 | **Consumer Trend Korea2020** | 2020.09.23 ~ 2020.10.25 | Python Jupyter Notebook, R studio  | **KDX Korea Data Exchange** |
 
+### :&#127942;: Award
+| **Project Name** | **Period** | **Role** | **Explanation** |
+|:--------:|:--------:|:--------:|:--------:|
+| **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | **Pyeongtaek City & Pyeongtaek University** |
+
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
 
 <!--
