@@ -20,9 +20,9 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **Consumer Trend Korea2020** | 2020.09.23 ~ 2020.10.25 | Python Jupyter Notebook, R studio  | **KDX Korea Data Exchange** |
 
 ### :&#127942;: Award
-| **Project Name** | **Period** | **Role** | **Explanation** |
+| **Project Name** | **Period** | **Role** | **Explanation** | **Organization**
 |:--------:|:--------:|:--------:|:--------:|
-| **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | **Pyeongtaek City & Pyeongtaek University** |
+| **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | the dean of academic affairs award(the 3 place) | **Pyeongtaek City &Pyeongtaek University**
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
