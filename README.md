@@ -21,7 +21,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 
 ### :&#127942;: Award
 | **Project Name** | **Period** | **Role** | **Explanation** | **Organization**
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | the dean of academic affairs award(the 3 place) | **Pyeongtaek City &Pyeongtaek University**
 
 
