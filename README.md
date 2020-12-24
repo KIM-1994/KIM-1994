@@ -8,7 +8,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 
 ### :purple_heart: Career
 | **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2013. 3 ~ 2019. 2 | environmental engineering | **Pyeongtaek University** |
 | **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| atmosphere, quality of water, noise&Vibration | **chungmyung environmental** |
 | **External activities** | 2016. 3 ~ 12 | student president | **Pyeongtaek University** |
