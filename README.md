@@ -20,7 +20,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
 | **Consumer Trend Korea2020** | 2020.09.23 ~ 2020.10.25 | Python Jupyter Notebook, R studio  | **KDX Korea Data Exchange** |
 
-### :&#127942;: Award
+### &#127942; Award
 | **Project Name** | **Period** | **Role** | **Explanation** | **Organization**
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | the dean of academic affairs award(the 3 place) | **Pyeongtaek City &Pyeongtaek University**
