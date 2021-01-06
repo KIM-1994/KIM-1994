@@ -26,7 +26,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | the dean of academic affairs award(the 3 place) | **Pyeongtaek City &Pyeongtaek University**
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
+[![Tech Blog Badge](https://img.shields.io/badge/-d%C9%AA%CB%88vel%C9%99p%C9%99(r)%20Steve's%20Blog-%23FF5722?style=flat&logo=blogger&logoColor=white&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
 
 <!--
 **KIM-1994/KIM-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
