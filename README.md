@@ -23,7 +23,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 ### &#127942; Award
 | **Project Name** | **Period** | **Role** | **Explanation** | **Organization**
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **PTU Leadership** | 2016.11. ~ 2016.11.| Competency Assessment for Leadership | the dean of academic affairs award(the 3 place) | **Pyeongtaek City &Pyeongtaek University**
+| **PTU Leadership** | 2016.12| Competency Assessment for Leadership | the dean of academic affairs award(the 3 place) | **Pyeongtaek City &Pyeongtaek University**
 
 
 [![Tech Blog Badge](https://img.shields.io/badge/-HOya%20Blog-%23FF5722?style=flat&logo=blogger&logoColor=white&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
