@@ -19,6 +19,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 |:--------:|:--------:|:--------:|:--------:|
 | **novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
 | **Consumer Trend Korea2020** | 2020.09.23 ~ 2020.10.25 | Python Jupyter Notebook, R studio  | **KDX Korea Data Exchange** |
+| **PTU Leadership** | 2016.11.14 ~ 2016.12.14| A Study on the Improvement and Solution of Lower Wastewater due to the Development of Pyeongtaek, New Economy City  | **Pyeongtaek City &Pyeongtaek University** |
 
 ### &#127942; Award
 | **Project Name** | **Period** | **Role** | **Explanation** | **Organization**
