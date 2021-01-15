@@ -9,6 +9,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 ### :purple_heart: Career
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2021. 01.04 ~ 2021. 02.26 | DeepLearning | **SK Planet** |
 | **:mortar_board: Education** | 2020. 8.26 ~ 2021. 02.01 | Big data analysis | **Pyeongtaek City** |
 | **:mortar_board: Education** | 2013. 3 ~ 2019. 2 | environmental engineering | **Pyeongtaek University** |
 | **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| atmosphere, quality of water, noise&Vibration | **chungmyung environmental** |
