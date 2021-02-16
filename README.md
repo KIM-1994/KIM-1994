@@ -19,7 +19,8 @@ My major is **environmental engineering:books:**, and I have been studying **com
 ### :cyclone: Project
 | **Project Name** | **Period** | **Role** | **Explanation** |
 |:--------:|:--------:|:--------:|:--------:|
-| **novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
+| **Environmental Big Data Platform Innovation Service Idea Contest** | 2021.01.27 ~ 2021.02.17 | Environmental Business Big Data Platform and Center Deployment Project | **K-water** |
+| **Novel writer classification AI contest** | 2020.10.29 ~ 2020.12.04 | Development of stylistic analysis algorithm | **DACON** |
 | **Consumer Trend Korea2020** | 2020.09.23 ~ 2020.10.25 | Python Jupyter Notebook, R studio  | **KDX Korea Data Exchange** |
 | **PTU Leadership** | 2016.11.14 ~ 2016.12.14| A Study on the Improvement and Solution of Lower Wastewater due to the Development of Pyeongtaek, New Economy City  | **Pyeongtaek City &Pyeongtaek University** |
 
