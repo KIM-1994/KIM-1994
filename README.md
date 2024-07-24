@@ -35,10 +35,9 @@ My major is **environmental engineering:books:**, and I have been studying **com
 
 💻**Studying**💻 </br>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-blue?style=flat-square&logo=rstudioide&logoColor=white"/>
-
 </br>
-🛠**Tools**🛠 </br>
-<img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=Vscode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/>
+🛠Tools🛠 </br>
+<img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/>
 
 <!--
 **KIM-1994/KIM-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
