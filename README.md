@@ -33,11 +33,11 @@ My major is **environmental engineering:books:**, and I have been studying **com
 
 [![Tech Blog Badge](https://img.shields.io/badge/-HOya%20Blog-%23FF5722?style=flat&logo=blogger&logoColor=white&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
 
-💻**Studying**💻 </br>
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-blue?style=flat-square&logo=rstudioide&logoColor=white"/>
-</br>
 🛠**Tools**🛠</br>
-<img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=Vscode(https://icons8.kr/icon/9OGIyU8hrxW5/visual-studio-code-2019)&logoColor=white"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-blue?style=flat-square&logo=rstudioide&logoColor=white"/><img src="https://img.shields.io/badge/VisualStudioCode-blue?style=flat-square&logo=Vscode(https://icons8.kr/icon/9OGIyU8hrxW5/visual-studio-code-2019)&logoColor=white"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white"/>
+
+</br>
+
 
 <!--
 **KIM-1994/KIM-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
