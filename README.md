@@ -10,10 +10,10 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2024. 07.16 ~  | Upstage AI Lab | **Fastcampus** |
-| **:mortar_board: Education** | 2021. 03 ~ 2024.08 | Environmental engineering(M.S) | **Graduate School of Seoul** |
+| **🏫 School** | 2021. 03 ~ 2024.08 | Environmental engineering(M.S) | **Graduate School of Seoul** |
 | **:mortar_board: Education** | 2021. 01.04 ~ 2021. 02.26 | DeepLearning | **SK Planet** |
 | **:mortar_board: Education** | 2020. 8.26 ~ 2021. 02.01 | Big data analysis | **Pyeongtaek City** |
-| **:mortar_board: Education** | 2013. 03 ~ 2019. 02 | Environmental engineering(B.S) | **Pyeongtaek University** |
+| **🏫 School** | 2013. 03 ~ 2019. 02 | Environmental engineering(B.S) | **Pyeongtaek University** |
 | **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| Atmosphere, quality of water, noise&Vibration | **Chungmyung Environmental** |
 | **External activities** | 2016. 03 ~ 12 | Student president | **Pyeongtaek University** |
 
