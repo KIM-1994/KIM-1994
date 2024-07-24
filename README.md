@@ -10,12 +10,12 @@ My major is **environmental engineering:books:**, and I have been studying **com
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2024. 07.16 ~  | Upstage AI Lab | **Fastcampus** |
-| **:mortar_board: Education** | 2021. 03 ~ 2024.08 | environmental engineering(M.S) | **Graduate School of Seoul** |
+| **:mortar_board: Education** | 2021. 03 ~ 2024.08 | Environmental engineering(M.S) | **Graduate School of Seoul** |
 | **:mortar_board: Education** | 2021. 01.04 ~ 2021. 02.26 | DeepLearning | **SK Planet** |
 | **:mortar_board: Education** | 2020. 8.26 ~ 2021. 02.01 | Big data analysis | **Pyeongtaek City** |
-| **:mortar_board: Education** | 2013. 03 ~ 2019. 02 | environmental engineering(B.S) | **Pyeongtaek University** |
-| **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| atmosphere, quality of water, noise&Vibration | **Chungmyung Environmental** |
-| **External activities** | 2016. 03 ~ 12 | student president | **Pyeongtaek University** |
+| **:mortar_board: Education** | 2013. 03 ~ 2019. 02 | Environmental engineering(B.S) | **Pyeongtaek University** |
+| **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| Atmosphere, quality of water, noise&Vibration | **Chungmyung Environmental** |
+| **External activities** | 2016. 03 ~ 12 | Student president | **Pyeongtaek University** |
 
 ### :cyclone: Project
 | **Project Name** | **Period** | **Role** | **Explanation** |
@@ -28,7 +28,7 @@ My major is **environmental engineering:books:**, and I have been studying **com
 ### &#127942; Award
 | **Project Name** | **Period** | **Role** | **Explanation** | **Organization**
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **PTU Leadership** | 2016.12| Competency Assessment for Leadership | the dean of academic affairs award(Ranked 3rd) | **Pyeongtaek City &Pyeongtaek University**
+| **PTU Leadership** | 2016.12| Competency Assessment for Leadership | 🥉the dean of academic affairs award(Ranked 3rd) | **Pyeongtaek City &Pyeongtaek University**
 
 
 [![Tech Blog Badge](https://img.shields.io/badge/-HOya%20Blog-%23FF5722?style=flat&logo=blogger&logoColor=white&link=https://kim-1994.github.io/)](https://kim-1994.github.io/)
