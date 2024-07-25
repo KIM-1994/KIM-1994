@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D45769&height=220&section=header&text=Day's%20Gitgub&fontSize=80&&fontColor=DCDCDC" />
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-1994&count_bg=%23DE7474&title_bg=%23ECA2A2&icon=iconify.svg&icon_color=%23E7E7E7&title=HOya&edge_flat=false)](https://hits.seeyoufarm.com)
 
 My major is **environmental engineering:books:**, and I have been studying **computer science:computer:** since 2020. I have project experience using **Python**, **R-studio**, **SQL**, **kaggle**, **crawling** and **Java**. I am very interested in **machine learning**. I am especially interested in environmental & computer vision.
