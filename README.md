@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D45769&height=220&section=header&text=Day's%20Gitgub&fontSize=80&&fontColor=DCDCDC" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D45769&height=220&section=header&text=KIMDONGHO&fontSize=80&&fontColor=DCDCDC" />
 <div align="left"> </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-1994&count_bg=%23DE7474&title_bg=%23ECA2A2&icon=iconify.svg&icon_color=%23E7E7E7&title=HOya&edge_flat=false)](https://hits.seeyoufarm.com)
