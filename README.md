@@ -18,7 +18,7 @@
 | **:mortar_board: Education** | 2020. 8.26 ~ 2021. 02.01 | Big data analysis | **Pyeongtaek City** |
 | **🏫 School** | 2013. 03 ~ 2019. 02 | Environmental engineering(B.S) | **Pyeongtaek University** |
 | **:office:Employment** | 2018. 11.14 ~ 2020. 06.30| Atmosphere, quality of water, noise&Vibration | **Chungmyung Environmental** |
-| **External activities** | 2016. 03 ~ 12 | Student president | **Pyeongtaek University** |
+| **External activities** | 2016. 03 ~ 2016. 12 | Student president | **Pyeongtaek University** |
 
 ### :cyclone: Project
 | **Project Name** | **Period** | **Role** | **Explanation** |
