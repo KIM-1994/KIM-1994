@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D45769&height=220&section=header&text=Day's%20Gitgub&fontSize=80&&fontColor=DCDCDC" />
 <div align="left"> </br>
