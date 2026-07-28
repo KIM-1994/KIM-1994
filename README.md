@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D45769&height=220&section=header&text=KIMDONGHO&fontSize=80&&fontColor=DCDCDC" />
 <div align="left"> </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-1994&count_bg=%23DE7474&title_bg=%23ECA2A2&icon=iconify.svg&icon_color=%23E7E7E7&title=HOya&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKIM-1994&label=HOya&color=%23DE7474&style=flat&tz=Asia%2FSeoul)](https://hitscounter.dev)
 
 * ☁️ I graduated with a Master's degree in Environmental Engineering from the University of Seoul.
 * :computer: I'm intersted in Water Management, Climate Change, Hydrological model
